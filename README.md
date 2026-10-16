@@ -53,7 +53,7 @@
     <tr><td><strong>Privilege Level</strong></td><td><code>15</code> (Full Privileged Execution)</td></tr>
     <tr><td><strong>Secret / Password (SSH/VTY)</strong></td><td><code>admin123</code></td></tr>
     <tr><td><strong>Core Router Console Password</strong></td><td><code>password1234</code></td></tr>
-    <tr><td><strong>Core Router Enable Secret</strong></td><td><code>secret12324</code></td></tr>
+    <tr><td><strong>Core Router Enable Secret</strong></td><td><code>secret1234</code></td></tr>
     <tr><td><strong>Core Router Gateway IP</strong></td><td><code>192.168.10.1</code></td></tr>
     <tr><td><strong>Switch-A Management IP</strong></td><td><code>192.168.10.254</code></td></tr>
     <tr><td><strong>Switch-B Status</strong></td><td>⏳ <em>Pending Phase 2 Deployment</em></td></tr>
